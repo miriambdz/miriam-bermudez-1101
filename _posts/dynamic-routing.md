@@ -10,7 +10,7 @@ ogImage:
   url: "/assets/blog/dynamic-routing/cover.jpg"
 ---
 
-Simulations allow engineers to predict the performance of desingns in real-world conditions, reducing the need for physical prototypes and saving time and costs. Key details include, **Structual Analysis**, **Aerodynamics for Rockets and Planes**, and **Thermal and Fluid Dynamics**. 
+Simulations allow engineers to predict the performance of desingns in real-world conditions, reducing the need for physical prototypes and saving time and costs. It is much easier to virtually design a protoype, than to create a physical prototype and test for each individual condition at a time. Using software reduces the risk of saftey, error, and time. Key details include, **Structual Analysis**, **Aerodynamics for Rockets and Planes**, and **Thermal and Fluid Dynamics**. 
  
 ## Structual Analysis
 Engineers can simulate structual loads to evaluate the strength and stability of materials and designs. Structual analysis evaluates the strength and stability of materials under various forces. It is crucial for ensuring saftey, reliability, and compliance with engineering standards. This is significant in many aspects of our daily lives, such as highways, bridges, and buildings. Engineers use tools like ANSYS or MATLAB to simulate stress, strain, and failure points all in a virtual environment, providing insights to optimize designs before production.
