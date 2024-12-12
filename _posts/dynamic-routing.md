@@ -10,6 +10,8 @@ ogImage:
   url: "/assets/blog/dynamic-routing/cover.jpg"
 ---
 
+## Overview
+
 Simulations allow engineers to predict the performance of desingns in real-world conditions, reducing the need for physical prototypes and saving time and costs. It is much easier to virtually design a protoype, than to create a physical prototype and test for each individual condition at a time. Using software reduces the risk of saftey, error, and time. Key details include, **Structual Analysis**, **Aerodynamics for Rockets and Planes**, and **Thermal and Fluid Dynamics**. 
  
 ## Structual Analysis
