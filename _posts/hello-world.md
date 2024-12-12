@@ -1,6 +1,6 @@
 ---
 title: "Automating Engineering Workflows"
-excerpt: "Automation streamlines repetitive tasks in engineering workflows, saving time and minimizing errors. By using programming tools engineers can shift their focus on more critical aspects of their projects. ."
+excerpt: "Automation streamlines repetitive tasks in engineering workflows, saving time and minimizing errors. By using programming tools engineers can shift their focus on more critical aspects of their projects."
 coverImage: "/assets/blog/hello-world/cover.jpg"
 date: "2024-12-12T05:35:07.322Z"
 author:
@@ -22,7 +22,8 @@ Software engineers can automate deployment pipelines using tools like Jenkins, G
 
 ## Data Processing for Software Development
 
-yap yap yap
+Data processing is the process of colllecting, organizing, and analyzing raw data to create useful information. It is a crucial step in preparing inforrmation for applications like web platforms, API's or machine learning models. Automating tasks such as data validation, and ensuring consistency while reducing the risk of human error. Python libraries like Pandas and NumPy simplify the processes by handling and processing raw data for further analysis.
+NumPy is used for working with arrays and has functions for working in domain of linear algebra, fouier transform and matrices.
 
 ## Bug Tracking and Error Handling
 
